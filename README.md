@@ -5,7 +5,6 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ## Features
 - Two-player gameplay (X and O)
 - Winner detection and congratulatory message
-- Draw detection
 - Reset and New Game functionality
 
 ## Files
@@ -18,7 +17,10 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 1. Download and extract the zip file.
 2. Open `index.html` in any modern browser.
 3. Play the game!
+4. enjoy
+#Advantage
+1.when you have a small class break where a new teacher comes,and you don't have enough time to download a game to play with your friend.
 
 ---
 
-Made with ❤️ by ChatGPT
+Made with ❤️ 
